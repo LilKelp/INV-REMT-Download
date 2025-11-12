@@ -1,0 +1,12 @@
+# Folders containing downloaded artifacts
+Invoices_Today/
+Inv&Remit_Today/
+
+# Common local clutter
+*.log
+Thumbs.db
+Desktop.ini
+
+# IDE settings
+.vscode/
+.idea/
