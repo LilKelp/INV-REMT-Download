@@ -2,6 +2,9 @@
 Invoices_Today/
 Inv&Remit_Today/
 
+# Vendor tools (portable binaries)
+tools/
+
 # Common local clutter
 *.log
 Thumbs.db
